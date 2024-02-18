@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Elegant Community","Elegant Services"];
+const statusMessages = ["Listening to Elegant Community","Elegant Services.!"];
 
 
 let currentIndex = 0;
